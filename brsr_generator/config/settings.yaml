@@ -1,0 +1,9 @@
+supported_file_types:
+  - docx
+  - pdf
+  - xlsx
+  - xls
+  - csv
+  - txt
+uploads_path: uploads/
+templates_path: templates/ 
